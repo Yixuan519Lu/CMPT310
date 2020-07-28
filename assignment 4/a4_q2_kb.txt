@@ -1,0 +1,13 @@
+mycomputer <-- hardware & software
+software <-- operating_system
+operating_system <-- windows & linux
+hardware <-- monitor & power_supply & case & mouse & keyboard
+case <-- fans & motherboard
+motherboard <-- cpu & ram & ssd & hdd & video_card & network_card
+fans <-- water_cooling_fans
+ram <-- rbg_ram
+io_devices <-- cpu & memory & video_controller & keyboard_controller & floppy_disk_controller & hard_disk_controller
+video_controller <-- monitor
+keyboard_controller <-- keyboard
+floppy_disk_controller <-- floppy_disk_drive
+hard_disk_controller <-- hard_disk_drive

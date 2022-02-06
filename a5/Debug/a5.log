@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\cmpt310\assn\5\a5\main.cpp(12,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  a5.vcxproj -> E:\cmpt310\assn\5\a5\Debug\a5.exe

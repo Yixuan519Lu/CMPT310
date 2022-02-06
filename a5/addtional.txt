@@ -1,0 +1,6 @@
+Heuristic on mobility evaluates the number of possible moves for current player and opponent. Since players skipping their turn due to zero mobility will lead to a significant disadvantage
+
+
+
+Function=10*(-Co+Cp) + (Mp-Mo)/(Mp+Mo)
+Co, Cp, Mp, Mo are opponent’s corners, Player’s corners, player’s mobility and opponent’s mobility respectively.
